@@ -1,13 +1,31 @@
-# 💻 Francisco Barbosa
+# 💻 Olá! Sou Francisco Barbosa
 
-**`Análise e Desenvolvimento de Sistemas`**
+**`⌛ Análise e Desenvolvimento de Sistemas`**
 
-Olá! Sou Francisco, estudante Análise e Desenvolvimento de Sistemas, em busca de estágio para aplicar e ampliar minhas habilidades. Tenho experiência com Python, R e também estou explorando desenvolvimento web e mobile. Aqui compartilho meus projetos e aprendizado. Seja bem vindo(a)!
+Com experiência em estatística e análise de dados, venho expandindo minhas habilidades para o desenvolvimento web e mobile. Aqui compartilho meus projetos, ideias e aprendizados, sempre buscando unir técnica e criatividade para criar soluções inovadoras.
+
+Seja bem-vindo(a)!
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="R" 
+    title="R"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
@@ -47,22 +65,6 @@ Olá! Sou Francisco, estudante Análise e Desenvolvimento de Sistemas, em busca 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="R" 
-    title="R"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
