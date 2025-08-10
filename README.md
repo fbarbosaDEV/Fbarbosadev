@@ -8,7 +8,7 @@ Seja bem-vindo(a)!
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens
 
 <img 
     align="left" 
@@ -85,7 +85,7 @@ Seja bem-vindo(a)!
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbarbosaDEV&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbarbosaDEV&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=7" 
   />
 
 </p>
